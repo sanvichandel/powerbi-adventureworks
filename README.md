@@ -1,13 +1,13 @@
 # powerbi-adventureworks
 # Adventure Works Revenue Dashboard (Power BI Project)
 
-An interactive Power BI dashboard built using the **Adventure Works** dataset to analyze product sales, regional performance, and key business metrics.
+An interactive Power BI dashboard built using Power BI as a part Power BI course. Th dataset(adventure works) was provided during the course and used to practice data modelling, visualization and DAX.
 
 ---
 
 ## Project Summary
 
-This project demonstrates the use of Power BI to transform raw sales data into visual, actionable insights. The goal is to visualize company revenue trends, segment perfomance and key financial insights for decision-makers.
+This project demonstrates the use of Power BI to transform raw sales data into visual, actionable insights. The goal is to track not only KPI's(i.e. sales, profit, cost, return) but also the product level performance, forecast, regional level comparisons and identify high value customers.
 
 ---
 
@@ -39,22 +39,8 @@ This project demonstrates the use of Power BI to transform raw sales data into v
 
 ---
 
-## Screenshots
-dashboard-screenshot-1
-dashboard-screenshot-2
-dashboard-screenshot-3
-dashboard-screenshot-4
-dashboard-screenshot-5
-dashboard-screenshot-6
-dashboard-screenshot-7
-dashboard-screenshot-8
-
----
-
-## How to Use
-
-1. Download the `AW-Report-Final.pbix` file from this repo
-2. Open in Power BI Desktop
+## Dashboard previews
+dashboard-screenshot-1.png, dashboard-screenshot-2.png, dashboard-screenshot-3.png, dashboard-screenshot-4.png, dashboard-screenshot-5.png, dashboard-screenshot-6.png, dashboard-screenshot-7.png, dashboard-screenshot-8.png
 
 ---
 
@@ -66,7 +52,7 @@ dashboard-screenshot-8
 ---
 
 ## Notes
-
+The dataset in this project is not publicly available and was provided through an online course. Therefore, the '.pbix' file and raw data are not included in this repository.
 This project was created as part of a Power BI course and is intended for learning and portfolio purposes only.
 
 
